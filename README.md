@@ -3,8 +3,6 @@
 ## Repository Structure
 
 This repository contains the code, data, results, and source files for the Bachelor's thesis titled "Generative Data Augmentation for Irony Detection."
-![Pipeline](src/pipeline.png)
-
 ### Folders:
 
 - **code:** Contains all files necessary to perform the conducted experiments.
