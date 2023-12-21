@@ -27,7 +27,7 @@ This repository contains the code, data, results, and source files for the Bache
 
 ## Execution Order
 
-To reproduce the experiments, execute the code files in the `code` folder cell by cell in the following order:
+To reproduce the experiments, execute the code files in the `code` folder cell by cell in the following order (Alternativly, because the fine-tuning requires some time and a custom API-key, one can start the execution at 4.):
 
 1. [`create_k_fold_spkit_for_training_data.ipynb`](code/create_k_fold_spkit_for_training_data.ipynb)
 2. [`create_aug_data_GPT2.ipynb`](code/create_aug_data_GPT2.ipynb)
